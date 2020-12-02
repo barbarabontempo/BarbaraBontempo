@@ -4,7 +4,7 @@ I am a full-stack web developer and software engineer located in NYC with a stro
 
 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/barbara-bontempo-a17011131/), [Email](mailto:barbarabontempo94@gmail.com)
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning: Python
 - 😄 Pronouns: she/her
 <!--
 **BarbaraBontempo/BarbaraBontempo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
