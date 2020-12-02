@@ -1,7 +1,13 @@
 ### Hi there 👋
 
+I am a full-stack web developer and software engineer located in NYC with a strong interest in front-end technologies, problem solving, and creating web-apps that are accessible to all. I work with Ruby on Rails, JavaScript, React, HTML and CSS. 
+
+📫 How to reach me:
+[LinkedIn](https://www.linkedin.com/in/barbara-bontempo-a17011131/), [Email](mailto:barbarabontempo94@gmail.com)
+- 🌱 I’m currently learning Python
+- 😄 Pronouns: she/her
 <!--
-**barbarabontempo/BarbaraBontempo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BarbaraBontempo/BarbaraBontempo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
