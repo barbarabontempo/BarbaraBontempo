@@ -1,4 +1,4 @@
-<h1 align=center> Hi there 👋 </h1>
+<h2 align=center> Hi there 👋 </h2>
 
 I am a full-stack web developer and software engineer located in NYC with a strong interest in front-end technologies, problem solving, and creating web-apps that are accessible to all. 
 <h2 align=center>Languages & Tools</h2>
