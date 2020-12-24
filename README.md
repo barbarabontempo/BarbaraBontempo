@@ -14,8 +14,6 @@ I am a full-stack web developer and software engineer located in NYC with a stro
         width="40" height="40" />
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"
         width="40" height="40" />
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/materialui/materialui-original.svg" alt="materialui"
-        width="40" height="40" />
     <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"
         width="40" height="40" />
     <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
