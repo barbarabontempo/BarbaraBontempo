@@ -10,6 +10,8 @@ I am a full-stack web developer and software engineer located in NYC with a stro
         width="40" height="40" />
    <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails"
         width="40" height="40" />
+     <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react"
+        width="40" height="40" />
    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"
         width="40" height="40" />
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"
