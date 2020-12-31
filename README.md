@@ -1,6 +1,6 @@
 <h2 align=center> Hi there 👋 </h2>
 
-I am a full-stack web developer and software engineer located in NYC with a strong interest in front-end technologies, problem solving, and creating web-apps that are accessible to all. 
+I am a full-stack web developer located in NYC with a strong interest in front-end technologies, problem solving, and creating web-apps that are accessible to all. 
 <h2 align=center>Languages & Tools</h2>
 <br>
 <p align=center>
@@ -28,7 +28,6 @@ I am a full-stack web developer and software engineer located in NYC with a stro
 [LinkedIn](https://www.linkedin.com/in/barbara-bontempo-a17011131/), [Email](mailto:barbarabontempo94@gmail.com)
 - 🌱 I’m currently learning: Python, Redux, Node.js
 - 😄 Pronouns: she/her
-
 
 
 
