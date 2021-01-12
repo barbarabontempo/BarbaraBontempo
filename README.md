@@ -28,7 +28,7 @@ I am a full-stack web developer located in NYC with a strong interest in front-e
 [LinkedIn](https://www.linkedin.com/in/barbara-bontempo-a17011131/), [Email](mailto:barbarabontempo94@gmail.com)
 - 🌱 I’m currently learning: Python, Redux, Node.js
 - 😄 Pronouns: she/her
-
+- 👯 I’m looking to collaborate on any fullstack projects with Ruby and/or Javascript! 
 
 
 
